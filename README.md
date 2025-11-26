@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uday Bhatnagar</h1>
 <h3 align="center">🚀 MERN Stack Developer | Java Enthusiast | From India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udaybhatnagar&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 🌱 Currently Learning  
@@ -50,9 +46,8 @@
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Udaybhatnagar&theme=react&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Udaybhatnagar&theme=react&hide_border=false" />
 </p>
-
 ---
 
 ## 🎯 Fun Fact  
